@@ -7,3 +7,17 @@ jupyterlab
 xgboost
 lightgbm
 flask
+## 📄 requirements.txt
+
+# Procesamiento de Datos
+pandas
+numpy
+
+# Machine Learning y Preprocesamiento
+scikit-learn
+seaborn
+matplotlib
+
+# Modelos Avanzados (si se usaron en el GridSearch)
+xgboost
+lightgbm
